@@ -1,0 +1,13 @@
+{
+  "name": "nelsongr/public_html/328/diner",
+  "description": "My MVC Diner Application",
+  "authors": [
+    {
+      "name": "Lillian Nelson",
+      "email": "nelson.lillian@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
